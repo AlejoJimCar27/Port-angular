@@ -3,4 +3,4 @@ export interface InfoPagina {
     email?: string;
     pag?: string;
     equipo_tbj?: any[];
-  }
+   }
